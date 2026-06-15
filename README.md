@@ -15,7 +15,9 @@ Download the source code from the repository and run the file.
 python main.py
 ```
 ## Recording from the game
-https://github.com/user-attachments/assets/fdba42bd-8f4a-4c58-9545-92832a8b4d7f
+https://github.com/user-attachments/assets/9adb6921-350a-4f17-89c5-07ddeb2b2466
+
+
 
 ## Prerequisites
 * [Python](https://www.python.org)
